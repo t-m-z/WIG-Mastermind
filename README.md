@@ -1,0 +1,2 @@
+# WIG-Mastermind
+Wherigo Geocache
